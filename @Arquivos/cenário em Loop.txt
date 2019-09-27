@@ -1,0 +1,22 @@
+//movimento do Cenario
+function loopcenario (e:Event){
+	
+	chao.x -=  10;
+		
+	if (chao.x <= -839){
+		
+		chao.x = -2
+		}
+		
+	arvores.x -=  4;
+		
+	if (arvores.x <= -874){
+		
+		arvores.x = -26
+		}
+} 
+addEventListener(Event.ENTER_FRAME,loopcenario)
+
+
+
+//-1683

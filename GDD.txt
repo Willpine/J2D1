@@ -1,0 +1,28 @@
+História:
+	Um slime está defendendo sua aldeia de guerreiros. À medida que vai derrotando seus inimigos, vai absorvendo seus poderes ou aumentando suas habilidades. Ao final, ele descobre que é, na verdade, um mob de um RPG.
+Personagens:
+	Protagonista: Slime verde - Harry, o Slime
+	Inimigo 1: Guerreiro lvl 1; Sem armadura; Poder: socar.
+	Boss 1: Guerreiro lvl 2; Armadura de couro; Poder: Corte de espada.
+Tela Inicial:
+	Título Slime Warrior;
+	Aldeia dos slimes, focado na casa do Harry;
+	botões Start, Opções, Créditos, Sair.
+Fase 1:
+	Meio-Dia
+	Aldeia de slimes sendo atacada. Pequenas cabanas pegand fogo, slimes assustados e fugindo;
+	Há guerreiros sem armadura batendo em slimes, adquirindo XP;
+	Ao matar o primeiro guerreiro, aparece uma msg de texto dizendo que agora você pode socar.
+	Fim do nível: aparece um guerreiro matando vários slimes e subindo de nível: A barra de boss aparece e enche.
+	Ao ser derrotado, será interrogado por Harry para saber de onde eles estão vindo.
+
+	Objetos:
+	Caixas de madeira, baús abertos, árvores, casas, plataformas, fogueira apagada.
+Fase 2:
+	Spawn dos guerreiros, montanhas atrás, entardecer, cercas, pilares de pedra e estátuas.
+	Talvez, ao fim do jogo, todos os slimes se juntem e se transformem em um slime gigante para derrotar os guerreiros.
+Tela de Game Over:
+	Poça do Harry com carinha triste.
+	Botões Ressurgir, Desistir.
+Tela de créditos:
+	Créditos com a aldeia vivendo pacificamnte; animações do Harry do lado.

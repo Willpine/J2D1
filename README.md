@@ -1,2 +1,9 @@
-# J2D1
-Slime Warrior, a simple game coded in Action Script 3 on Adobe Illustrator
+# Slime Warrior
+
+## Proposta
+
+Jogo side-scrolling infinito em flash.
+
+## Propósito
+
+Projeto do módulo Jogo-2D-1 do Curso Start da Saga-Tatuapé.
